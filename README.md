@@ -23,7 +23,7 @@ and sign up a new account
 
 # Step 3
 Click add new monitor
-![Revenge,Dev](http://prntscr.com/mrxqn3)
+![Revenge,Dev](https://image.prntscr.com/image/8vdjvkqgSMKMUX1eDK0oPg.png)
 
 ![Revenge,Dev](http://prntscr.com/npe8l1)
 and here monitor type is HTTP'S
