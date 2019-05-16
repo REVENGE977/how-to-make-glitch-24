@@ -25,7 +25,7 @@ and sign up a new account
 Click add new monitor
 ![Revenge,Dev](https://image.prntscr.com/image/8vdjvkqgSMKMUX1eDK0oPg.png)
 
-![Revenge,Dev](http://prntscr.com/npe8l1)
+![Revenge,Dev](https://cdn.discordapp.com/attachments/572499129281019904/578588148880113685/download.png)
 and here monitor type is HTTP'S
 Friendly Name Type Anything
 Url Paste this URL http://projectname.glitch.me/
